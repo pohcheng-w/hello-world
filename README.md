@@ -1,2 +1,4 @@
 # hello-world
-my very first github repository. hello-world
+Hello,
+
+This is Poh Cheng. 
